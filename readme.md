@@ -14,11 +14,10 @@
 - NaN
 - null
 ## Formas de crear una 'variable'
-    - const constante = 12
-    - let variable = 23 
+    const constante = 12
+    let variable = 23 
 
 ## Funciones en javascript
-
     function mandarMensaje(){
         console.log("Hola")
 
@@ -35,6 +34,7 @@
         console.log("Hola")
     }
     anonimaa()
+    
 ## Funciones flecha
     const anonima =  ()=> {
         console.log("Hola")
