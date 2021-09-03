@@ -13,9 +13,9 @@
 - undefined
 - NaN
 - null
-## Formas de crear una 'variable' (yo le diría espacio en memoria xd)
-const constante = 12
-let variable = 23 
+## Formas de crear una 'variable'
+- const constante = 12
+- let variable = 23 
 
 ## funciones en javascript
 
@@ -47,7 +47,7 @@ const anonima2 = (nombre) => {
 anonima2("Viena ome")
 
 ## Clases en js 
-
+{
 class Perro {
 
     constructor(nombre) {
