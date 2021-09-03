@@ -54,7 +54,7 @@
         }
 
 
-const perro = new Perro("Doggy")
+    const perro = new Perro("Doggy")
 
 
 
