@@ -17,7 +17,7 @@
 - const constante = 12
 - let variable = 23 
 
-## funciones en javascript
+## Funciones en javascript
 
 function mandarMensaje(){
     console.log("Hola")
@@ -55,7 +55,7 @@ class Perro {
     }
 
 
-const perro = new Perro("no se")
+const perro = new Perro("Doggy")
 
 
 
