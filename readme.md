@@ -3,16 +3,16 @@
 ## La consola 
     console.log(msg)
 ## Tipos de datos
-    - "Cadena de texto" -> String
-    - 'Cadena de texto'-> String
-    - `Template strings` -> String
-    - true  -> Boolean
-    - false -> Boolean
-    - 12 -> Number
-    - 12.4 -> Number
-    - undefined
-    - NaN
-    - null
+- "Cadena de texto" -> String
+- 'Cadena de texto'-> String
+- `Template strings` -> String
+- true  -> Boolean
+- false -> Boolean
+- 12 -> Number
+- 12.4 -> Number
+- undefined
+- NaN
+- null
 ## Formas de crear una 'variable'
     - const constante = 12
     - let variable = 23 
