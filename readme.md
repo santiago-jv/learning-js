@@ -35,11 +35,12 @@
         console.log("Hola")
     }
     anonimaa()
-    ## Funciones flecha
+## Funciones flecha
     const anonima =  ()=> {
         console.log("Hola")
     }
     anonima()
+    
     const anonima2 = (nombre) => {
         console.log("Hola " + nombre)
 
