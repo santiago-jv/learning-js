@@ -5,7 +5,7 @@
 ## Tipos de datos
     - "Cadena de texto" -> String
     - 'Cadena de texto'-> String
-    - `Template strings (lueguito se habla de esto xd)` -> String
+    - `Template strings` -> String
     - true  -> Boolean
     - false -> Boolean
     - 12 -> Number
