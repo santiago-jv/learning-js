@@ -47,13 +47,13 @@ const anonima2 = (nombre) => {
 anonima2("Viena ome")
 
 ## Clases en js 
-{
+
 class Perro {
 
     constructor(nombre) {
         this.nombre = nombre
     }
-}
+
 
 const perro = new Perro("no se")
 
