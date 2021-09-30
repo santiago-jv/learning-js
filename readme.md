@@ -46,7 +46,7 @@
     
 
 
-## Funciones de inmediata invocación
+## Funciones de invocación inmediata (Immediately Invoked Function Expression)
 
     (function() {
         //content
