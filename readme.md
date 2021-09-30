@@ -33,10 +33,10 @@
 
     mandarMensajeA("David ome")
 
-    const anonimaa = function () {
+    const anonima = function () {
         console.log("Hola")
     }
-    anonimaa()
+    anonima()
     
 ## Funciones flecha
     const anonima =  ()=> {
