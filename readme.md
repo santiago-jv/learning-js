@@ -12,9 +12,13 @@
 - undefined
 - NaN
 - null
+
 ## Formas de crear una 'variable'
     const constante = 12
     let variable = 23 
+    var x = 12
+    una variable declarada por var, puede volver a ser declarada con el mismo nombre y no pasaría nada. En cambio, con let no sucedería lo mismo. 
+    
 
 ## Funciones en javascript
     function mandarMensaje(){
