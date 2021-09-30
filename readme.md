@@ -5,7 +5,6 @@
 ## Tipos de datos
 - "Cadena de texto" -> String
 - 'Cadena de texto'-> String
-- `Template strings` -> String
 - true  -> Boolean
 - false -> Boolean
 - 12 -> Number
@@ -41,12 +40,13 @@
     }
     anonima()
     
-    const anonima2 = (nombre) => {
-        console.log("Hola " + nombre)
 
-    }
-    anonima2("Viena ome")
 
+## Funciones de inmediata invocación
+
+    (function() {
+        //content
+    })();
 ## Clases en js 
     class Perro {
 
