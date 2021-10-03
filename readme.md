@@ -22,16 +22,16 @@
 
 ## Funciones en javascript
     function mandarMensaje(){
-        console.log("Hola")
+        console.log("Hello")
 
     }
     mandarMensaje() 
 
     function mandarMensajeA(nombre) {
-        console.log("Hola "+nombre)
+        console.log("Hola " + nombre)
     }
 
-    mandarMensajeA("David ome")
+    mandarMensajeA("Santiago")
 
     const anonima = function () {
         console.log("Hola")
@@ -60,7 +60,9 @@
 
 
     const perro = new Perro("Doggy")
+## El Event Loop en Javascript
 
+[La Guía Definitiva del Event Loop en JS (async, promises, callbacks, render) - Antonio Sarossi](https://youtu.be/dX2lThXc0p4)
 
 
 
