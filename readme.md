@@ -8,10 +8,11 @@
 - true  -> Boolean
 - false -> Boolean
 - 12 -> Number
-- 12.4 -> Number
-- undefined
-- NaN
-- null
+- 12.4 -> Number 
+- BigInt(1234567890123456789012345678901234567890) -> BigInt
+- Symbol('Valor inmutable') -> Symbol
+- undefined -> asignado automáticamente por el lenguaje
+- null -> asignado intencionalmente por el programador
 
 ## Formas de crear una 'variable'
     const constante = 12
@@ -62,7 +63,7 @@
     const perro = new Perro("Doggy")
 ## El Event Loop en Javascript
 
-[La Guía Definitiva del Event Loop en JS (async, promises, callbacks, render) - Antonio Sarossi](https://youtu.be/dX2lThXc0p4)
+[La Guía Definitiva del Event Loop en JS (async, promises, callbacks, render) - Antonio Sarosi](https://youtu.be/dX2lThXc0p4)
 
 
 
