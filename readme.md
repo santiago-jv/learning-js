@@ -2,6 +2,7 @@
 Lo primero (y no tan importante) es que entiendas que las intrucciones de Javascript no requieren de un punto y coma al final, esto es opcional. Sin embargo, recuerda mantener las buenas prácticas como programador.
 ## La consola 
 La consola que provee javascript tiene muchas funcionalidades que puedes consultar en la documentación MDN pero en general, ayuda con la depuración de tu código. https://developer.mozilla.org/es/docs/Web/API/Console
+    
     console.log("Este es un mensaje de prueba");
 ## Tipos de datos
 - "Cadena de texto" -> String
