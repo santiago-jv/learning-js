@@ -4,10 +4,10 @@ Lo primero (y no tan importante) es que entiendas que las intruccines de Javascr
 # Diferencia entre Javascript y ECMAScript
 Durante tu aprendizaje con el lenguaje, seguramente te encontraste con el término "ECMAScript" y quizás en su momento te hallabas confundido por no conocer la relación que tiene con Javascript. Revisa rápidamente la siguiente información que explica a detalle que es ECMAScript y por qué se relaciona con Javascript: https://programacionymas.com/blog/diferencia-entre-javascript-y-ecmascript
 ## La consola 
-La consola que provee javascript tiene muchas funcionalidades que puedes consultar en la documentación MDN pero en general, ayuda con la depuración de tu código. https://developer.mozilla.org/es/docs/Web/API/Console
+La consola que provee Javascript tiene muchas funcionalidades que puedes consultar en la documentación MDN pero en general, ayuda con la depuración de tu código. https://developer.mozilla.org/es/docs/Web/API/Console
     
     console.log("Este es un mensaje de prueba");
-## Tipos de datos
+## Tipos de datos en Javascript
 - "Cadena de texto" -> String
 - 'Cadena de texto'-> String
 - true  -> Boolean
@@ -20,14 +20,14 @@ La consola que provee javascript tiene muchas funcionalidades que puedes consult
 - null -> asignado intencionalmente por el programador
 Más sobre los tipos de datos aquí https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures
 
-## Formas de crear una 'variable'
+## Formas de crear una 'variable' en Javascript
     const constante = 12
     let variable = 23 
     var x = 12
     una variable declarada por var, puede volver a ser declarada con el mismo nombre y no pasaría nada. En cambio, con let no sucedería lo mismo. 
     
 
-## Funciones en javascript
+## Funciones en Javascript
     function mandarMensaje(){
         console.log("Hello")
 
@@ -45,7 +45,7 @@ Más sobre los tipos de datos aquí https://developer.mozilla.org/es/docs/Web/Ja
     }
     anonima()
     
-## Funciones flecha
+## Funciones flecha en Javascript
     const anonima =  ()=> {
         console.log("Hola")
     }
