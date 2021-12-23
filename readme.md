@@ -49,10 +49,12 @@
 
 ## Funciones de invocación inmediata (Immediately Invoked Function Expression)
 
+
     (function() {
         //content
     })();
-## Clases en js 
+## Clases en Javascript
+[Por qué hay clases en Javascript?](https://es.stackoverflow.com/questions/28187/por-qu%C3%A9-no-hay-clases-en-javascript/28215)
     class Perro {
 
         constructor(nombre) {
@@ -64,6 +66,8 @@
 ## El Event Loop en Javascript
 
 [La Guía Definitiva del Event Loop en JS (async, promises, callbacks, render) - Antonio Sarosi](https://youtu.be/dX2lThXc0p4)
+
+Consulta más acerca del lenguaje aquí https://developer.mozilla.org/es/docs/Web/JavaScript
 
 
 
