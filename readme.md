@@ -28,6 +28,8 @@ Más sobre los tipos de datos aquí https://developer.mozilla.org/es/docs/Web/Ja
     
 
 ## Funciones en Javascript
+Las funciones suelen llevar un nombre para identificarlas. Sin embargo, también puedes crear funciones sin necesidad de asignarles un nombre. Estas reciben el nombre de funciones anónimas.
+
     function mandarMensaje(){
         console.log("Hello")
 
