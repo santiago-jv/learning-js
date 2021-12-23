@@ -47,7 +47,8 @@ La consola que provee javascript tiene muchas funcionalidades que puedes consult
     anonima()
     
 
-
+# Diferencias entre las Funciones flecha y las  regulares
+https://es.stackoverflow.com/questions/101927/diferencia-entre-arrow-function-y-function-normal-al-llamar-al-m%C3%A9todo-subscribe
 ## Funciones de invocación inmediata (Immediately Invoked Function Expression)
 
 
