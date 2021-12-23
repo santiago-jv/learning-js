@@ -15,6 +15,7 @@ La consola que provee javascript tiene muchas funcionalidades que puedes consult
 - Symbol('Valor inmutable') -> Symbol
 - undefined -> asignado automáticamente por el lenguaje
 - null -> asignado intencionalmente por el programador
+Más sobre los tipos de datos aquí https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures
 
 ## Formas de crear una 'variable'
     const constante = 12
