@@ -2,7 +2,7 @@
 Lo primero (y no tan importante) es que entiendas que las intruccines de Javascript no requieren de un punto y coma al final, esto es opcional. Sin embargo, recuerda mantener las buenas prácticas como programador.
 
 # Diferencia entre Javascript y ECMAScript
-Durante tu aprendizaje con el lenguaje, seguramente te encontrarás con ECMAScript y capaz en su momento estuviste confundido por no conocer la relación que tiene con Javascript. Revisa rápidamente la siguiente información que explica a detalle que es ECMAScript y por qué se relaciona con Javascript: https://programacionymas.com/blog/diferencia-entre-javascript-y-ecmascript
+Durante tu aprendizaje con el lenguaje, seguramente te encontraste con el término "ECMAScript" y quizás en su momento te hallabas confundido por no conocer la relación que tiene con Javascript. Revisa rápidamente la siguiente información que explica a detalle que es ECMAScript y por qué se relaciona con Javascript: https://programacionymas.com/blog/diferencia-entre-javascript-y-ecmascript
 ## La consola 
 La consola que provee javascript tiene muchas funcionalidades que puedes consultar en la documentación MDN pero en general, ayuda con la depuración de tu código. https://developer.mozilla.org/es/docs/Web/API/Console
     
